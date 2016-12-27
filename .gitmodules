@@ -1,0 +1,3 @@
+[submodule "Assets/unitytools"]
+	path = Assets/unitytools
+	url = https://neginfinity@bitbucket.org/neginfinity/unitytools.git
